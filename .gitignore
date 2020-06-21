@@ -1,0 +1,8 @@
+.vs/
+x64/
+ColdClearTest/bin/
+ColdClearTest/obj/
+cold_clear.dll
+cold_clear.dll.lib
+coldclear.h
+*.user
