@@ -179,7 +179,7 @@ namespace ColdClear
         array<Plan>^ Plans;
     };
 
-    public enum CCMovementMode
+    public enum class CCMovementMode
     {
         CC_0G,
         CC_20G,
